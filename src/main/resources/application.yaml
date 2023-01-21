@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: "mongodb+srv://spring-user_01:spr1ngB00t@firstcluster.fbf2g.mongodb.net/?retryWrites=true&w=majority"
+      database: "SpringBoot"
